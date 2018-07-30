@@ -1,0 +1,75 @@
+body {
+  background-image:url(snakeBack.jpg);
+}
+.score1{
+font-style: italic;
+background-color: bisque;
+font-size: 20px;
+ position: absolute;
+ left: 40%;
+ top: 0%
+ 
+}
+.score2{
+  font-style: italic;
+  background-color: bisque;
+  font-size: 20px;
+   position: absolute;
+   left: 40%;
+   top: 5%
+   
+  }
+#myCanvas{
+  position: absolute;
+  top:10%;
+  left:5%
+  
+}
+#hold{
+  font-style: italic;
+  background-color: bisque;
+  font-size: 20px;
+  position: absolute;
+  left: 40%;
+  top: 30%
+  }
+#newGame{
+font-style: italic;
+background-color: bisque;
+font-size: 20px;
+position: absolute;
+left: 40%;
+top: 40%
+}
+#winner{
+  font-style: italic;
+background-color: bisque;
+font-size: 20px;
+position: absolute;
+left: 40%;
+top: 50%
+}
+.playerName1{
+  font-style: italic;
+background-color: bisque;
+font-size: 20px;
+position: absolute;
+left: 40%;
+top: 60%
+}
+.playerName2{
+  font-style: italic;
+  background-color: bisque;
+  font-size: 20px;
+  position: absolute;
+  left: 40%;
+  top: 65%
+}
+#sub{
+  font-style: italic;
+background-color: bisque;
+font-size: 20px;
+position: absolute;
+left: 60%;
+top: 65%
+}
